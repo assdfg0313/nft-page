@@ -1,0 +1,15 @@
+{
+    "image": "https://lwi.nexon.com/maplestory/guide/char_info/char_view/char5.jpg",
+    "name": "미하일",
+    "description": "여제 시그너스를 수호하는<br>고결한 빛의 기사",
+    "attributes": [
+        {
+            "trait_type": "kind",
+            "value": "시그너스 기사단"
+        },
+        {
+            "trait_type": "detail",
+            "value": "미하일은 시그너스 여제를 섬기는 기사단장입니다.  자신의 운명을 알지 못했던 그에게 시그너스 여제가 찾아와 빛의 기사로서의  운명을 일깨워주게 되고, 이후 미하일은 시그너스 기사단에 합류합니다.  빛의 힘으로 적을 응징하고, 소울 실드를 사용해 적의 공격을 완벽하게 막은 후  강력한 반격을 날릴 수 있습니다.  캐릭터 생성 시 남자 캐릭터만 생성 가능합니다."
+        }
+    ]
+}

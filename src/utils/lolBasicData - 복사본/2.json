@@ -1,0 +1,19 @@
+{
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_0.jpg",
+    "name": "갈리오",
+    "description": "아스라한 빛의 도시 데마시아의 성문 밖, 거대한 석상 갈리오가 경계의 눈을 늦추지 않고 서 있다. 마법사의 공격으로부터 데마시아를 수호하기 위해 만들어진 갈리오는 강력한 마법의 힘이 그를 깨울 때까지 수십 년, 때로는 수백 년 동안 한자리에 미동도 없이 서있다. 일단 깨어나면 전투의 아찔한 스릴과 데마시아인들을 구한다는 자부심을 음미하며 1분 1초도 허투루 쓰는 법이 없다. 그러나 그가 쟁취한 승리의 향기는 결코 달콤하지만은 않다. 아이러니하게도...",
+    "attributes": [
+        {
+            "trait_type": "subname",
+            "value": "위대한 석상"
+        },
+        {
+            "trait_type": "role",
+            "value": "탱커"
+        },
+        {
+            "trait_type": "difficulty",
+            "value": "보통"
+        }
+    ]
+}

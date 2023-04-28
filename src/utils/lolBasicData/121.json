@@ -1,0 +1,19 @@
+{
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_0.jpg",
+    "name": "조이",
+    "description": "상상력과 변화의 화신인 장난꾸러기 조이는 타곤의 우주 전령으로, 세계를 뒤흔드는 중요한 사건들을 알린다. 조이는 존재만으로도 현실 세계를 지배하는 불가사의한 수학 원리를 왜곡하고, 가끔은 아무런 악의나 노력 없이도 대재앙을 일으킨다. 이것이 그녀가 자신의 의무에 경쾌하고도 태연하게 임하는 이유일지도 모른다. 조이는 장난을 치고 인간들을 골탕 먹이는 등 즐겁게 보낼 시간이 많다. 그녀를 만나면 매우 즐겁고 삶을 긍정적으로 바라보게 될 수도 있지만...",
+    "attributes": [
+        {
+            "trait_type": "subname",
+            "value": "여명의 성위"
+        },
+        {
+            "trait_type": "role",
+            "value": "마법사"
+        },
+        {
+            "trait_type": "difficulty",
+            "value": "보통"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "image": "https://lwi.nexon.com/maplestory/guide/char_info/char_view/char7.jpg",
+    "name": "데몬 슬레이어",
+    "description": "마족의 힘으로 복수의 길을 걷는 혼혈 마족",
+    "attributes": [
+        {
+            "trait_type": "kind",
+            "value": "데몬"
+        },
+        {
+            "trait_type": "detail",
+            "value": "데몬 슬레이어는 검은 마법사의 군단장 출신으로, 검은 마법사의 배신에 의해  가족을 잃고 복수를 다짐합니다. 영웅들이 검은 마법사와 싸우기 전에 홀로  검은 마법사와 대적하게 됩니다.  포스의 힘을 사용하는 데몬 슬레이어는 데몬 슬래시를 사용하여 몬스터에게  데몬 포스를 흡수하고, 데몬 포스를 소모하는 더욱 강력한 기술을 사용하여  마족의 힘을 발산할 수 있습니다."
+        }
+    ]
+}

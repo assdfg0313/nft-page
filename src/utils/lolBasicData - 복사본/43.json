@@ -1,0 +1,19 @@
+{
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_0.jpg",
+    "name": "문도 박사",
+    "description": "완전히 미쳐버린 비참한 살인마이자 오싹한 보라색 괴물로 변한 문도 박사는 많은 자운 시민이 특히나 어두운 밤에 외출을 피하는 이유이다. 현재 의사를 자처하는 그는 한때 자운에서 가장 악명 높은 정신 병원에 수용된 환자였다. 모든 의료진을 &#x27;치료&#x27;하고 나서, 문도 박사는 자신이 치료받았던 빈 병원에서 의사가 된 뒤 본인이 수없이 당한 몹시 부도덕한 치료법을 따라 하기 시작했다. 의약품은 많지만 의학 지식은 전혀 없는 문도 박사는 약물을 주사할 때마다...",
+    "attributes": [
+        {
+            "trait_type": "subname",
+            "value": "자운의 광인"
+        },
+        {
+            "trait_type": "role",
+            "value": "전사"
+        },
+        {
+            "trait_type": "difficulty",
+            "value": "보통"
+        }
+    ]
+}

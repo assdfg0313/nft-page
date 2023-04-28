@@ -1,0 +1,15 @@
+{
+    "image": "https://lwi.nexon.com/maplestory/guide/char_info/char_view/char17.jpg",
+    "name": "배틀메이지",
+    "description": "실전에 특화된 근접 마법사",
+    "attributes": [
+        {
+            "trait_type": "kind",
+            "value": "레지스탕스"
+        },
+        {
+            "trait_type": "detail",
+            "value": "다른 마법사와는 다르게, 빠르게 연타 공격을 하는 직업 입니다.  파티에 유용한 각종 오라와 화려한 공격이 특징 입니다.  스태프 계열의 무기를 사용하며, 파티 사냥에서 유용하게 사용되는 각종 오라 스킬과  다수의 몬스터를 단번에 제압하는 화려한 공격이 특징입니다."
+        }
+    ]
+}

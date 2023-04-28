@@ -1,0 +1,15 @@
+{
+    "image": "https://lwi.nexon.com/maplestory/guide/char_info/char_view/char40.jpg",
+    "name": "캡틴",
+    "description": "예리한 사격술과 카리스마로<br>총알과 포탄 세례를 내리는 함장",
+    "attributes": [
+        {
+            "trait_type": "kind",
+            "value": "모험가"
+        },
+        {
+            "trait_type": "detail",
+            "value": "캡틴은 건을 사용하며 다양한 선원을 거느리고 있는 유능한 선장입니다.  강력한 한 방으로 급소를 노리는 사격 뿐만 아니라, 속사나 전방위 난사도 가능한  건의 달인입니다.  또한, 선원들과 배틀쉽을 소환하여 일제 포격을 가하고 강력한 전함, 노틸러스호를  호출하여 적을 섬멸할 수 있습니다."
+        }
+    ]
+}

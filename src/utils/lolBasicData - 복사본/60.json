@@ -1,0 +1,19 @@
+{
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_0.jpg",
+    "name": "빅토르",
+    "description": "새로운 기술 시대의 도래를 알리는 전령 빅토르는 인류의 진보에 평생을 바쳤다. 인류의 지식수준을 한 단계 높이고자 하는 이상을 마음속에 간직한 채 기술의 영광된 진화만이 인간의 잠재력을 완전히 발현시킬 수 있는 유일한 방법이라고 믿는다. 강철과 과학의 힘을 빌려 기계 인간으로 거듭난 빅토르는 인류의 밝은 미래를 구현하기 위해 온 힘을 다한다.",
+    "attributes": [
+        {
+            "trait_type": "subname",
+            "value": "기계화의 전령관"
+        },
+        {
+            "trait_type": "role",
+            "value": "마법사"
+        },
+        {
+            "trait_type": "difficulty",
+            "value": "높음"
+        }
+    ]
+}

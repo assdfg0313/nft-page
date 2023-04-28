@@ -1,0 +1,15 @@
+{
+    "image": "https://lwi.nexon.com/maplestory/guide/char_info/char_view/char26.jpg",
+    "name": "윈드브레이커",
+    "description": "바람과 함께 자유롭게<br>메이플 월드를 누비는 바람의 궁수",
+    "attributes": [
+        {
+            "trait_type": "kind",
+            "value": "시그너스 기사단"
+        },
+        {
+            "trait_type": "detail",
+            "value": "윈드브레이커는 정령 스톰의 힘을 받아들여 바람의 힘을 사용하는 궁수입니다.  산뜻한 바람부터 거센 바람까지 다양한 바람으로 적을 공격합니다.  특히 윈드브레이커가 공격할 때 마다 변덕스러운 바람의 정령이 나타나  적을 추가로 공격하는 트라이플링 윔은 윈드브레이커의 속사 공격과 함께  강력한 위력을 자랑합니다."
+        }
+    ]
+}

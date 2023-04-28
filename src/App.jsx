@@ -2,7 +2,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Main from "./pages/main";
 import Detail from "./pages/detail";
 import Header from "./components/Header";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 function App() {
   const [account, setAccount] = useState("");

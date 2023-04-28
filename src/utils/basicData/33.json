@@ -1,0 +1,15 @@
+{
+    "image": "https://lwi.nexon.com/maplestory/guide/char_info/char_view/char33.jpg",
+    "name": "나이트워커",
+    "description": "어둠의 힘을 담은 표창을 다루는<br>그림자의 대가",
+    "attributes": [
+        {
+            "trait_type": "kind",
+            "value": "시그너스 기사단"
+        },
+        {
+            "trait_type": "detail",
+            "value": "나이트워커는 정령 다크니스의 힘을 받아들여 그림자와 어둠의 힘을 사용하는  도적입니다.  표창에 어둠의 힘을 실어 그림자로 빚어낸 배트를 다수 소환하고,  자신의 행동을 따라하는 종복을 여러 개 소환하여 끊임없는 표창 공격을 선보입니다.  나이트워커는 배트와 종복들을 이용해 쉴 새 없이 적을 공격할 수 있습니다."
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "image": "https://lwi.nexon.com/maplestory/guide/char_info/char_view/char25.jpg",
+    "name": "패스파인더",
+    "description": "저주를 극복하고 고대 활의 주인이 된 모험가",
+    "attributes": [
+        {
+            "trait_type": "kind",
+            "value": "모험가"
+        },
+        {
+            "trait_type": "detail",
+            "value": "패스파인더는 고대 유물에 매료된 호기심 많은 모험가였으나,   탐사 도중 얻은 저주의 영향으로 고대의 힘을 사용할 수 있게 된 궁수입니다.  전용 무기인 에인션트 보우를 활용해 고유한 특성을 지닌 세 개의 기본 궁술을  연계하여 전투하며, 이를 통해 렐릭 게이지를 충전하고 강력한 스킬을 사용할 수 있습니다."
+        }
+    ]
+}

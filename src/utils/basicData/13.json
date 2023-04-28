@@ -1,0 +1,15 @@
+{
+    "image": "https://lwi.nexon.com/maplestory/guide/char_info/char_view/char13.jpg",
+    "name": "아크메이지(불,독)",
+    "description": "강력한 폭발과 치명적인 독으로 전장을 휩쓰는 마법사",
+    "attributes": [
+        {
+            "trait_type": "kind",
+            "value": "모험가"
+        },
+        {
+            "trait_type": "detail",
+            "value": "아크메이지(불, 독)은 모든 것을 불태우는 불 마법과 적을 중독시키는 독 마법을  사용합니다.   불과 독의 마법은 넓은 지역을 장악하고 초토화시키며, 적중한 적에게 지속적으로  도트 데미지를 입힙니다.   적에게 도트 데미지가 중첩될수록 마법의 위력이 더욱 향상되어 폭발적인 힘을  이끌어 낼 수 있습니다."
+        }
+    ]
+}

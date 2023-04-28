@@ -1,0 +1,15 @@
+{
+    "image": "https://lwi.nexon.com/maplestory/guide/char_info/char_view/char15.jpg",
+    "name": "비숍",
+    "description": "자애와 복수의 힘을 사용하는 양면의 마법사",
+    "attributes": [
+        {
+            "trait_type": "kind",
+            "value": "모험가"
+        },
+        {
+            "trait_type": "detail",
+            "value": "비숍은 자애의 천사의 힘과 복수의 천사의 힘을 상황에 맞춰 사용할 수 있는  마법사입니다.   자애의 천사의 힘은 아군을 수호하고 지원하며, 복수의 천사의 힘은 악을 멸하며  자비 없이 적을 심판합니다."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_0.jpg",
+    "name": "애니비아",
+    "description": "애니비아는 삶과 죽음, 부활을 끊임없이 반복하며 프렐요드를 지키는 날개 달린 반신이다. 매섭기 짝이 없는 얼음과 칼바람에서 태어났으며, 이런 자연의 힘을 자유자재로 이용하여 자신의 고향땅을 어지럽히려 드는 무모한 자들을 응징한다. 혹한의 북쪽에 터를 잡은 부족들에게 애니비아는 그들을 이끌고 보호하는 자애로운 존재로, 희망의 상징이자 크나큰 변화를 가져오는 징조로 숭배를 받는다. 애니비아는 전장에서 죽음을 두려워하지 않고 전력을 다해 싸운다. 자신을...",
+    "attributes": [
+        {
+            "trait_type": "subname",
+            "value": "얼음불사조"
+        },
+        {
+            "trait_type": "role",
+            "value": "마법사"
+        },
+        {
+            "trait_type": "difficulty",
+            "value": "높음"
+        }
+    ]
+}

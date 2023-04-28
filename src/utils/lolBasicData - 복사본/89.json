@@ -1,0 +1,19 @@
+{
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_0.jpg",
+    "name": "아펠리오스",
+    "description": "달그림자에서 나타나는 아펠리오스는 음울한 적막 속에서 적을 쓰러뜨린다. 정확한 조준과 총성만이 그의 목소리를 대신한다. 독에 중독되어 말을 할 수 없게 되었지만 머나먼 사원에 있는 쌍둥이 여동생 알룬이 그를 인도하며 월석의 힘을 그의 손에 쥐여 준다. 하늘에서 달이 빛나는 한 아펠리오스는 결코 혼자가 아니다.",
+    "attributes": [
+        {
+            "trait_type": "subname",
+            "value": "신념의 무기"
+        },
+        {
+            "trait_type": "role",
+            "value": "원거리 딜러"
+        },
+        {
+            "trait_type": "difficulty",
+            "value": "높음"
+        }
+    ]
+}

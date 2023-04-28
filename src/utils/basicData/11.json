@@ -1,0 +1,15 @@
+{
+    "image": "https://lwi.nexon.com/maplestory/guide/char_info/char_view/char11.jpg",
+    "name": "아델",
+    "description": "지켜야 할 주군을 잃어버린 비극의 기사",
+    "attributes": [
+        {
+            "trait_type": "kind",
+            "value": "레프"
+        },
+        {
+            "trait_type": "detail",
+            "value": "그란디스의 하이레프 종족인 아델은 명예로운 기사였으나 모종의 이유로 아공간에  유폐되어 있었습니다.  오랜 시간이 흐른 후 차원을 넘어 들리는 한 소년의 간절한 기도에 의해 현실로  소환됩니다.  마력으로 이루어진 에테르 소드를 창조하여 무기로 사용하며 검에 의지를 담아  손에 쥐지 않고 자유롭게 다룰 수 있습니다."
+        }
+    ]
+}

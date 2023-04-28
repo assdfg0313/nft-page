@@ -1,0 +1,15 @@
+{
+    "image": "https://lwi.nexon.com/maplestory/guide/char_info/char_view/char22.jpg",
+    "name": "키네시스",
+    "description": "세상의 모든 움직임을 지배하는 초능력자",
+    "attributes": [
+        {
+            "trait_type": "kind",
+            "value": "키네시스"
+        },
+        {
+            "trait_type": "detail",
+            "value": "키네시스는 프렌즈 월드에서 태어난 초능력자 소년으로, 물체를 자유자재로 움직일 수  있는 강력한 염동력을 가지고 있습니다.  키네시스는 자신의 능력을 사용해 두 세계를 넘나드는 히어로의 길을 걷게 됩니다.  키네시스는 주변 사물 및 몬스터를 자유롭게 제어하는 능력을 가지고 있으며,   싸이킥 포인트를 모아 적에게 강력한 피해를 입히는 얼티메이트 스킬을 사용할 수  있습니다."
+        }
+    ]
+}

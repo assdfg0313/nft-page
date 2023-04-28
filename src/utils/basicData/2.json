@@ -1,0 +1,15 @@
+{
+    "image": "https://lwi.nexon.com/maplestory/guide/char_info/char_view/char2.jpg",
+    "name": "팔라딘",
+    "description": "신성한 힘을 사용하는 중갑 성전사",
+    "attributes": [
+        {
+            "trait_type": "kind",
+            "value": "모험가"
+        },
+        {
+            "trait_type": "detail",
+            "value": "팔라딘은 신성한 빛의 힘과 중갑으로 무장한 전사입니다.  팔라딘이 지닌 신성한 힘은 중갑에 깃들어 적의 공격에 쉬이 굴하지 않으면서,  아군을 든든히 지원하기도 합니다.  팔라딘이 휘두르는 망치는 성흔을 남겨 주변을 휩쓸거나, 목표한 적에게  낙인을 새겨 더욱 강하게 응징합니다."
+        }
+    ]
+}

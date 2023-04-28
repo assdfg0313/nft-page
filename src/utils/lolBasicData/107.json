@@ -1,0 +1,19 @@
+{
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_0.jpg",
+    "name": "이렐리아",
+    "description": "녹서스에게 침략당한 후 아이오니아에서는 수많은 영웅이 등장했지만, 나보리 출신의 젊은 이렐리아만큼 독특한 영웅은 없다. 이렐리아는 고향 나보리에 전해 내려오는 고대의 춤을 익혔고, 아이오니아가 침략당하자 그 능력을 전쟁터에서의 기술로 삼았다. 치명적인 위력의 칼날들을 공중에 띄우고 자유자재로 조종하며 싸우는 그녀의 모습은 우아하고 신중하며 군더더기라고는 없었다. 훌륭한 투사임을 입증한 이렐리아는 원하는 바는 아니었으나 아이오니아 저항 세력을 선두에서...",
+    "attributes": [
+        {
+            "trait_type": "subname",
+            "value": "칼날 무희"
+        },
+        {
+            "trait_type": "role",
+            "value": "전사"
+        },
+        {
+            "trait_type": "difficulty",
+            "value": "보통"
+        }
+    ]
+}

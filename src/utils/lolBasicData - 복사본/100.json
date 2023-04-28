@@ -1,0 +1,19 @@
+{
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_0.jpg",
+    "name": "올라프",
+    "description": "그 누구도 막지 못할 파괴력으로 도끼를 휘두르는 올라프가 바라는 것은 딱 한 가지, 전장에서 영광스럽게 전사하는 것이다. 프렐요드에서도 가혹한 환경으로 유명한 록파르 반도 출신인 올라프는 어느 날 자신이 무병장수하다가 평온하게 숨을 거둘 것이라는 예언을 들었다. 록파르에서는 침상에서 편안하게 죽는 것은 겁쟁이뿐이므로, 이는 더할 나위 없이 모욕적인 운명이었다. 분노가 치민 올라프는 오로지 싸우다 죽기만을 바라며 프렐요드를 종횡무진했다. 하지만 위대한...",
+    "attributes": [
+        {
+            "trait_type": "subname",
+            "value": "광전사"
+        },
+        {
+            "trait_type": "role",
+            "value": "전사"
+        },
+        {
+            "trait_type": "difficulty",
+            "value": "낮음"
+        }
+    ]
+}

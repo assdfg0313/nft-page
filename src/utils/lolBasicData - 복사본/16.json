@@ -1,0 +1,19 @@
+{
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg",
+    "name": "다리우스",
+    "description": "녹서스 그 자체를 상징하는 인물로 다리우스만큼 어울리는 사람도 없을 것이다. 실전에서 단련된 사령관이자 녹서스 내에서조차도 두려움의 대상이니까. 다리우스는 미천한 집안에서 태어났으나 녹서스 제국의 적들을 파죽지세로 베어넘기면서 트리파르 군단 사령관이라는 지금의 자리와 권력을 획득했다. 문제는 그 적들 다수가 녹서스 인이었다는 사실이다. 다리우스는 자신의 명분이 정당하다는 것을 한 번도 의심한 적이 없으며, 도끼를 치켜들 때에도 망설임이 없다. 그러니...",
+    "attributes": [
+        {
+            "trait_type": "subname",
+            "value": "녹서스의 실력자"
+        },
+        {
+            "trait_type": "role",
+            "value": "전사"
+        },
+        {
+            "trait_type": "difficulty",
+            "value": "낮음"
+        }
+    ]
+}

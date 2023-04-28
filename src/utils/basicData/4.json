@@ -1,0 +1,15 @@
+{
+    "image": "https://lwi.nexon.com/maplestory/guide/char_info/char_view/char4.jpg",
+    "name": "소울마스터",
+    "description": "천체의 힘을 사용하는<br>태양과 달의 기사",
+    "attributes": [
+        {
+            "trait_type": "kind",
+            "value": "시그너스 기사단"
+        },
+        {
+            "trait_type": "detail",
+            "value": "소울마스터는 정령 소울의 힘을 받아들여 태양, 달, 천체의 힘을 다루는 전사입니다.  소울마스터는 태양의 검술과 달의 검술을 반복하며 우주의 힘의 매개체인  코스믹 오브를 획득할 수 있습니다.  코스믹 오브를 사용하면 더 강력한 우주의 힘을 발휘하는 코스믹 스킬을 사용할 수  있습니다."
+        }
+    ]
+}

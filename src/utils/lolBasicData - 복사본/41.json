@@ -1,0 +1,19 @@
+{
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_0.jpg",
+    "name": "모데카이저",
+    "description": "이미 두 번이나 죽었지만 세 번째로 되살아난 모데카이저는 옛 시대의 잔혹한 군주로서 강령술을 사용해 영혼들을 영원한 노예로 만듭니다. 지금은 그의 정복 활동을 기억하거나, 그의 진정한 힘을 아는 이는 거의 없습니다. 하지만 모데카이저에 대해 잘 아는 일부 고대인들은 그가 다시 돌아와 산 자와 죽은 자 모두를 지배할 날이 도래할까 봐 두려워합니다.",
+    "attributes": [
+        {
+            "trait_type": "subname",
+            "value": "강철의 망령"
+        },
+        {
+            "trait_type": "role",
+            "value": "전사"
+        },
+        {
+            "trait_type": "difficulty",
+            "value": "보통"
+        }
+    ]
+}

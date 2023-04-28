@@ -1,0 +1,19 @@
+{
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_0.jpg",
+    "name": "애니",
+    "description": "순수함 속에 아이답지 않은 위험한 모습을 간직한 애니는 불을 다루는 강력한 마법사다. 녹서스 북부의 산속에서 그림자처럼 숨어 지내면서도 그녀의 마법은 두각을 드러냈다. 아기였을 때부터 예측할 수 없는 감정의 분출과 함께 타고난 화염 친화성을 보인 애니는 곧 이런 &#x27;재주&#x27;를 제어할 수 있게 되었다. 그 중 사랑하는 곰 인형 &#x27;티버&#x27;를 열렬한 수호자로 소환하는 것을 가장 좋아한다. 끝 모를 동심을 품은 애니는 언제나 어두운 숲을 거닐며 같이 놀 누군가를...",
+    "attributes": [
+        {
+            "trait_type": "subname",
+            "value": "어둠의 아이"
+        },
+        {
+            "trait_type": "role",
+            "value": "마법사"
+        },
+        {
+            "trait_type": "difficulty",
+            "value": "보통"
+        }
+    ]
+}

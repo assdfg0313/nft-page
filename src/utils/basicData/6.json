@@ -1,0 +1,15 @@
+{
+    "image": "https://lwi.nexon.com/maplestory/guide/char_info/char_view/char6.jpg",
+    "name": "블래스터",
+    "description": "끊기지 않는 무한 연속 공격의 전사",
+    "attributes": [
+        {
+            "trait_type": "kind",
+            "value": "레지스탕스"
+        },
+        {
+            "trait_type": "detail",
+            "value": "건틀렛 리볼버라는 특별한 무기를 사용하는 전사입니다.  강력한 연속 공격 후 실린더 게이지로 보다 강력한 스킬을 사용할 수 있습니다.  플레이어의 컨트롤 실력에 따라 연속 공격의 속도가 계속 빨라져  누구보다 강한 화력을 발휘할 수 있는 가능성을 가지고 있습니다."
+        }
+    ]
+}

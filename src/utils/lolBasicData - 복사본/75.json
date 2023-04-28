@@ -1,0 +1,19 @@
+{
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_0.jpg",
+    "name": "스카너",
+    "description": "슈리마의 깊은 계곡에 서식하는 강력한 수정 전갈, 스카너. 고대 브래컨 혈통을 지닌 스카너와 그 동족은 뛰어난 지혜를 갖춘 것으로 잘 알려져 있다. 브래컨의 영혼은 선조대의 모든 사상과 기억이 내재되어 있는 생명 수정과 결합되어 있는데, 이것은 브래컨이 물속뿐만 아니라 육지와도 긴밀한 관계에 놓여 있음을 의미한다. 아주 오래전 어느 날, 이들 브래컨 종족은 생명 수정의 마법이 풀려나가는 것을 막기 위해 동면에 들어갔다. 그런데 최근 들어 발생한 매우...",
+    "attributes": [
+        {
+            "trait_type": "subname",
+            "value": "수정 선봉장"
+        },
+        {
+            "trait_type": "role",
+            "value": "전사"
+        },
+        {
+            "trait_type": "difficulty",
+            "value": "보통"
+        }
+    ]
+}

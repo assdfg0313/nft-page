@@ -1,0 +1,19 @@
+{
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_0.jpg",
+    "name": "유미",
+    "description": "유미는 밴들 시티 출신의 마법 고양이로 한때 요들 마법사 노라와 함께 살았다. 어느 날 노라가 알 수 없는 이유로 종적을 감추자 유미는 자아를 지닌 노라의 책 &#x27;관문의 서&#x27;의 수호자가 되었으며, 책 페이지 안에 존재하는 차원문을 타고 주인을 찾는 여정에 나섰다. 애정을 갈구하는 유미는 여정을 함께 떠날 친절한 동료들을 구하며, 빛나는 방패와 단호한 결의로 그들을 보호한다. 노라의 책은 유미가 눈앞에 놓인 임무에 집중하도록 하기 위해 애쓰지만, 유미는...",
+    "attributes": [
+        {
+            "trait_type": "subname",
+            "value": "마법 고양이"
+        },
+        {
+            "trait_type": "role",
+            "value": "서포터"
+        },
+        {
+            "trait_type": "difficulty",
+            "value": "낮음"
+        }
+    ]
+}

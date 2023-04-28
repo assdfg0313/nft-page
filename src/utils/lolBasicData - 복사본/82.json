@@ -1,0 +1,19 @@
+{
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_0.jpg",
+    "name": "아무무",
+    "description": "뼛속까지 사무치는 외로움과 쓸쓸함 속에 살아가는 아무무. 평생을 오로지 마음을 나눌 수 있는 단 한 명의 친구를 찾아 헤매는, 고대 슈리마 제국의 가엾은 영혼이다. 끔찍한 저주를 받은 아무무는 영원히 혼자인 채로 남겨졌다. 그 저주란 지독하리만큼 잔인한 것이었다. 상대가 누구든 아무무와의 신체적 접촉은 죽음을 의미했고 정서적 교류는 파멸을 불러왔다. 그의 운명을 아는 한 누구도 그를 가까이하려 들지 않았다. 간혹 아무무를 봤다는 이들은 그를 두고...",
+    "attributes": [
+        {
+            "trait_type": "subname",
+            "value": "슬픈 미라"
+        },
+        {
+            "trait_type": "role",
+            "value": "탱커"
+        },
+        {
+            "trait_type": "difficulty",
+            "value": "낮음"
+        }
+    ]
+}

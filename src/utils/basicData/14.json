@@ -1,0 +1,15 @@
+{
+    "image": "https://lwi.nexon.com/maplestory/guide/char_info/char_view/char14.jpg",
+    "name": "아크메이지(썬,콜)",
+    "description": "<br>차가운 냉기와 날카로운 전류로 적을 제압하는 마법사",
+    "attributes": [
+        {
+            "trait_type": "kind",
+            "value": "모험가"
+        },
+        {
+            "trait_type": "detail",
+            "value": "아크메이지(썬, 콜)은 빙하보다 차가운 빙결 마법과, 적 사이를 순식간에 흐르며  공격하는 번개 마법을 사용합니다.  빙결된 적을 번개 마법으로 감전시키면 번개의 힘이 극대화되어 더욱 강력한 위력을  발휘할 수 있습니다."
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "image": "https://lwi.nexon.com/maplestory/guide/char_info/char_view/char3.jpg",
+    "name": "다크나이트",
+    "description": "어둠과 계약한 창기사",
+    "attributes": [
+        {
+            "trait_type": "kind",
+            "value": "모험가"
+        },
+        {
+            "trait_type": "detail",
+            "value": "다크나이트는 어둠과의 계약을 통해 발휘하는 어둠의 힘과 능수능란한  창술이 특징인 전사입니다.  죽음마저도 거스르는 강력한 어둠의 힘은 다크나이트를 보호하는 한편  적을 향한 훌륭한 무기가 되기도 합니다.  다크나이트의 창은 원거리의 적을 꿰뚫거나, 크게 휘둘러 주변을 초토화시키는 등  묵직하면서 강력한 위력을 자랑합니다."
+        }
+    ]
+}

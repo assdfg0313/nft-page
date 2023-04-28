@@ -1,0 +1,19 @@
+{
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_0.jpg",
+    "name": "잔나",
+    "description": "룬테라의 돌풍이라는 강력한 무기를 지닌, 그러나 모든 것이 베일에 싸인 잔나. 그녀는 이제 폐허가 되어버린 자운을 지키는 바람의 정령이다. 그런 그녀를 두고 떠도는 이야기는 많다. 그중에서 가장 그럴듯한 설은 바로 수호신으로서의 잔나. 악천후 속에서 폭풍우를 뚫고 나아가며 부디 순항할 수 있기를 기원하는 룬테라 선원들의 간구 속에서 등장했다고 여기는 것이다. 사람들은 잔나가 남다른 애정으로 자운의 선원들을 보호한다고 믿었다. 잔나와 자운, 이 둘의...",
+    "attributes": [
+        {
+            "trait_type": "subname",
+            "value": "폭풍의 분노"
+        },
+        {
+            "trait_type": "role",
+            "value": "서포터"
+        },
+        {
+            "trait_type": "difficulty",
+            "value": "보통"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "image": "https://lwi.nexon.com/maplestory/guide/char_info/char_view/char27.jpg",
+    "name": "와일드헌터",
+    "description": "재규어를 탄 궁수",
+    "attributes": [
+        {
+            "trait_type": "kind",
+            "value": "레지스탕스"
+        },
+        {
+            "trait_type": "detail",
+            "value": "재규어를 타고 이동하며, 탑승상태로 각종 스킬 사용가능 합니다.  재규어를 통한 근접 공격과 석궁을 통한 원거리 공격 모두 자유롭게 구사할 수 있는  레지스탕스의 특별한 궁수 직업 입니다."
+        }
+    ]
+}
