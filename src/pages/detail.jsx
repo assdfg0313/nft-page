@@ -13,7 +13,7 @@ const Detail = () => {
     try {
       // const response = await axios.get("/jsons" + `/${tokenId}.json`);
       // setMetadata(response.data);
-      setMetadata(basicData[parseInt(tokenId)]);
+      setMetadata(basicData[parseInt(tokenId) - 1]);
     } catch (error) {
       console.error(error);
     }
